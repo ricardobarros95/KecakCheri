@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 25408f9746469d043aa85f7de1df9172
+timeCreated: 1454250729
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group1
+    100002: //RootNode
+    100004: pTorus1
+    100006: pTorus10
+    100008: pTorus11
+    100010: pTorus12
+    100012: pTorus13
+    100014: pTorus14
+    100016: pTorus15
+    100018: pTorus16
+    100020: pTorus17
+    100022: pTorus2
+    100024: pTorus3
+    100026: pTorus4
+    100028: pTorus5
+    100030: pTorus6
+    100032: pTorus7
+    100034: pTorus8
+    100036: pTorus9
+    100038: Trim_Char_a_1_1
+    100040: Trim_Char_c_1_1
+    100042: Trim_Char_e_1_1
+    100044: Trim_Char_K_1_1
+    100046: Trim_Char_K_1_2
+    100048: Trim_Text_Keckac_1_1
+    400000: group1
+    400002: //RootNode
+    400004: pTorus1
+    400006: pTorus10
+    400008: pTorus11
+    400010: pTorus12
+    400012: pTorus13
+    400014: pTorus14
+    400016: pTorus15
+    400018: pTorus16
+    400020: pTorus17
+    400022: pTorus2
+    400024: pTorus3
+    400026: pTorus4
+    400028: pTorus5
+    400030: pTorus6
+    400032: pTorus7
+    400034: pTorus8
+    400036: pTorus9
+    400038: Trim_Char_a_1_1
+    400040: Trim_Char_c_1_1
+    400042: Trim_Char_e_1_1
+    400044: Trim_Char_K_1_1
+    400046: Trim_Char_K_1_2
+    400048: Trim_Text_Keckac_1_1
+    2300000: pTorus1
+    2300002: pTorus10
+    2300004: pTorus11
+    2300006: pTorus12
+    2300008: pTorus13
+    2300010: pTorus14
+    2300012: pTorus15
+    2300014: pTorus16
+    2300016: pTorus17
+    2300018: pTorus2
+    2300020: pTorus3
+    2300022: pTorus4
+    2300024: pTorus5
+    2300026: pTorus6
+    2300028: pTorus7
+    2300030: pTorus8
+    2300032: pTorus9
+    2300034: Trim_Char_a_1_1
+    2300036: Trim_Char_c_1_1
+    2300038: Trim_Char_e_1_1
+    2300040: Trim_Char_K_1_1
+    2300042: Trim_Char_K_1_2
+    3300000: pTorus1
+    3300002: pTorus10
+    3300004: pTorus11
+    3300006: pTorus12
+    3300008: pTorus13
+    3300010: pTorus14
+    3300012: pTorus15
+    3300014: pTorus16
+    3300016: pTorus17
+    3300018: pTorus2
+    3300020: pTorus3
+    3300022: pTorus4
+    3300024: pTorus5
+    3300026: pTorus6
+    3300028: pTorus7
+    3300030: pTorus8
+    3300032: pTorus9
+    3300034: Trim_Char_a_1_1
+    3300036: Trim_Char_c_1_1
+    3300038: Trim_Char_e_1_1
+    3300040: Trim_Char_K_1_1
+    3300042: Trim_Char_K_1_2
+    4300000: Trim_Char_K_1_1
+    4300002: Trim_Char_e_1_1
+    4300004: Trim_Char_c_1_1
+    4300006: Trim_Char_a_1_1
+    4300008: Trim_Char_K_1_2
+    4300010: pTorus2
+    4300012: pTorus3
+    4300014: pTorus5
+    4300016: pTorus6
+    4300018: pTorus7
+    4300020: pTorus16
+    4300022: pTorus17
+    4300024: pTorus1
+    4300026: pTorus4
+    4300028: pTorus8
+    4300030: pTorus9
+    4300032: pTorus15
+    4300034: pTorus10
+    4300036: pTorus11
+    4300038: pTorus14
+    4300040: pTorus13
+    4300042: pTorus12
+    7400000: Play
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Play
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 348
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pTorus1
+        weight: 1
+      - path: group1/pTorus4
+        weight: 1
+      - path: group1/pTorus8
+        weight: 1
+      - path: group1/pTorus9
+        weight: 1
+      - path: group1/pTorus10
+        weight: 1
+      - path: group1/pTorus11
+        weight: 1
+      - path: group1/pTorus12
+        weight: 1
+      - path: group1/pTorus13
+        weight: 1
+      - path: group1/pTorus14
+        weight: 1
+      - path: group1/pTorus15
+        weight: 1
+      - path: pTorus2
+        weight: 1
+      - path: pTorus3
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus6
+        weight: 1
+      - path: pTorus7
+        weight: 1
+      - path: pTorus16
+        weight: 1
+      - path: pTorus17
+        weight: 1
+      - path: Trim_Text_Keckac_1_1
+        weight: 1
+      - path: Trim_Text_Keckac_1_1/Trim_Char_a_1_1
+        weight: 1
+      - path: Trim_Text_Keckac_1_1/Trim_Char_c_1_1
+        weight: 1
+      - path: Trim_Text_Keckac_1_1/Trim_Char_e_1_1
+        weight: 1
+      - path: Trim_Text_Keckac_1_1/Trim_Char_K_1_1
+        weight: 1
+      - path: Trim_Text_Keckac_1_1/Trim_Char_K_1_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
